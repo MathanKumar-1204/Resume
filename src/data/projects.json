@@ -1,0 +1,29 @@
+[
+  {
+    "Title": "Project 1",
+    "Description": "Description of Project 1",
+    "Features": ["Feature 1", "Feature 2"],
+    "Github": "https://github.com/project1",
+    "Img": "src\\assets\\pic1.jpg",
+    "Link": "https://project1.com",
+    "TechStack": ["HTML", "CSS", "JavaScript"]
+  },
+  {
+    "Title": "Project 2",
+    "Description": "Description of Project 2",
+    "Features": ["Feature A", "Feature B"],
+    "Github": "https://github.com/project2",
+    "Img": "src\\assets\\pic2.png",
+    "Link": "https://project2.com",
+    "TechStack": ["ReactJS", "Tailwind CSS"]
+  },
+  {
+    "Title": "Project 3",
+    "Description": "Description of Project 3",
+    "Features": ["Feature X", "Feature Y"],
+    "Github": "https://github.com/project3",
+    "Img": "src\\assets\\pic3.jpg",
+    "Link": "https://project3.com",
+    "TechStack": ["NodeJS", "Express"]
+  }
+]
