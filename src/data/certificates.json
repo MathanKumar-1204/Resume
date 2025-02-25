@@ -1,6 +1,6 @@
 [
   {
-    "Img": "src\\assets\\pic1.jpeg"
+    "Img": "../assets/pic1.jpeg"
   },
   {
     "Img": "src\\assets\\pic2.jpeg"
