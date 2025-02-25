@@ -1,65 +1,65 @@
 [
   {
-    "Img": "../assets/pic1.jpeg"
+    "Img": "src/assets/pic1.jpeg"
   },
   {
-    "Img": "src\\assets\\pic2.jpeg"
+    "Img": "src/assets/pic2.jpeg"
   },
   {
-    "Img": "src\\assets\\pic3.jpeg"
+    "Img": "src/assets/pic3.jpeg"
   },
   {
-    "Img": "src\\assets\\pic4.jpeg"
+    "Img": "src/assets/pic4.jpeg"
   },
   {
-    "Img": "src\\assets\\pic5.jpeg"
+    "Img": "src/assets/pic5.jpeg"
   },
   {
-    "Img": "src\\assets\\pic6.jpeg"
+    "Img": "src/assets/pic6.jpeg"
   },
   {
-    "Img": "src\\assets\\pic7.jpeg"
+    "Img": "src/assets/pic7.jpeg"
   },
   {
-    "Img": "src\\assets\\pic8.jpeg"
+    "Img": "src/assets/pic8.jpeg"
   },
   {
-    "Img": "src\\assets\\pic9.jpeg"
+    "Img": "src/assets/pic9.jpeg"
   },
   {
-    "Img": "src\\assets\\pic10.jpeg"
+    "Img": "src/assets/pic10.jpeg"
   },
   {
-    "Img": "src\\assets\\pic11.jpeg"
+    "Img": "src/assets/pic11.jpeg"
   },
   {
-    "Img": "src\\assets\\pic12.jpeg"
+    "Img": "src/assets/pic12.jpeg"
   },
   {
-    "Img": "src\\assets\\pic13.jpeg"
+    "Img": "src/assets/pic13.jpeg"
   },
   {
-    "Img": "src\\assets\\pic14.jpeg"
+    "Img": "src/assets/pic14.jpeg"
   },
   {
-    "Img": "src\\assets\\pic15.jpeg"
+    "Img": "src/assets/pic15.jpeg"
   },
   {
-    "Img": "src\\assets\\pic16.jpeg"
+    "Img": "src/assets/pic16.jpeg"
   },
   {
-    "Img": "src\\assets\\pic17.jpeg"
+    "Img": "src/assets/pic17.jpeg"
   },
   {
-    "Img": "src\\assets\\pic18.jpeg"
+    "Img": "src/assets/pic18.jpeg"
   },
   {
-    "Img": "src\\assets\\pic19.jpeg"
+    "Img": "src/assets/pic19.jpeg"
   },
   {
-    "Img": "src\\assets\\pic20.jpeg"
+    "Img": "src/assets/pic20.jpeg"
   },
   {
-    "Img": "src\\assets\\pic21.jpeg"
+    "Img": "src/assets/pic21.jpeg"
   }
 ]
