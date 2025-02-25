@@ -13,7 +13,7 @@ const socialLinks = [
     displayName: "Let's Connect",
     subText: "on LinkedIn",
     icon: Linkedin,
-    url: "https://www.linkedin.com/in/ekizr/",
+    url: "https://www.linkedin.com/in/mathan-kumar-055768246/",
     color: "#0A66C2",
     gradient: "from-[#0A66C2] to-[#0077B5]",
     isPrimary: true
@@ -30,18 +30,18 @@ const socialLinks = [
   {
     name: "YouTube",
     displayName: "Youtube",
-    subText: "@eki zulfar",
+    subText: "@Sparkathon",
     icon: Youtube,
-    url: "https://www.youtube.com/@eki_zulfar",
+    url: "https://www.youtube.com/@Sparkathon-b7u",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
   {
     name: "GitHub",
     displayName: "Github",
-    subText: "@EkiZR",
+    subText: "@MathanKumar-1204",
     icon: Github,
-    url: "https://github.com/EkiZR",
+    url: "https://github.com/MathanKumar-1204",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]"
   },
