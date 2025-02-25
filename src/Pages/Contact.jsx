@@ -42,7 +42,7 @@ const ContactPage = () => {
     });
 
     try {
-      await fetch("https://formsubmit.co/mathanmsecit@gmail.com", {
+      await fetch("https://formsubmit.co/mathankumargovindaraj2004@gmail.com", {
         method: "POST",
         body: new URLSearchParams(formData),
         headers: { "Content-Type": "application/x-www-form-urlencoded" }
