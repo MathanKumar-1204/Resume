@@ -76,7 +76,7 @@ const ContactPage = () => {
 
   return (
     <>
-     <div className="text-center lg:mt-[5%] mt-10 mb-2 sm:px-0 px-[5%]" id="Contact">
+     <div className="h-auto pb-[10%] text-white overflow-hidden px-[5%] sm:px-[5%] lg:px-[10%] mt-10 sm-mt-0" id="Contact">
     <h2
         data-aos="fade-down"
         data-aos-duration="1000"
