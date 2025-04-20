@@ -2,7 +2,7 @@ import React, { useEffect, memo, useMemo } from "react";
 import { FileText, Code, Award, Globe, ArrowUpRight, Sparkles, UserCheck } from "lucide-react";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
-import pdfFile from "./Mathan Kumar Resume (2).pdf";
+import pdfFile from "./Mathan Kumar Resume.pdf";
 import Timeline from "../components/Timeline";
 
 // Import local JSON data for certificates
